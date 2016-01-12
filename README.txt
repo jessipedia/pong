@@ -1,1 +1,1 @@
-This is the empty read me.
+This is a basic pong project using the p5.js library.
