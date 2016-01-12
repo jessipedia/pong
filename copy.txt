@@ -1,5 +1,0 @@
-This is a second file.
-
-Here is some new text in the second file.
-
-
